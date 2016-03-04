@@ -9,3 +9,4 @@ License: What license is it under?
 LazyData: TRUE
 URL: https://github.com/marcionicolau/RMapSubscribers
 BugReports: https://github.com/marcionicolau/RMapSubscribers/issues
+RoxygenNote: 5.0.1

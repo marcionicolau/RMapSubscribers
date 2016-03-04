@@ -1,11 +1,13 @@
 Package: RMapSubscribers
 Type: Package
-Title: What the Package Does (Title Case)
+Title: RMapSubscribers - A Subscribers Map Generator
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Authors@R: c(
+    person("Marcio", "Nicolau", role = c("aut", "cre"), email = "marcio.nicolau@embrapa.br"))
+Description: This package generate a interactive map with informations about
+    attendees for International Congress of SCAB & BLAST - Florianopolis - Brazil
+    the content of the map will be updated once a day.
+License: GPL-3
 LazyData: TRUE
 URL: https://github.com/marcionicolau/RMapSubscribers
 BugReports: https://github.com/marcionicolau/RMapSubscribers/issues
